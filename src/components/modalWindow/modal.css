@@ -1,0 +1,23 @@
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*transform: scale(0);*/
+
+
+    position: fixed;
+    z-index: 20;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+/*.modal .active {*/
+/*    opacity: 1;*/
+/*}*/
+
+.modal__content {
+    border-radius: 12px;
+    background-color: var(--container-color);
+}
