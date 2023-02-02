@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/ihor-portfolio/static/css/main.f4d9bba5.css",
-    "main.js": "/ihor-portfolio/static/js/main.3f5e8826.js",
+    "main.js": "/ihor-portfolio/static/js/main.db006590.js",
     "static/js/787.28cb0dcd.chunk.js": "/ihor-portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/CV Frontend-developer.pdf": "/ihor-portfolio/static/media/CV Frontend-developer.cd9ca45df30b2be124c4.pdf",
+    "static/media/CV Frontend-developer.pdf": "/ihor-portfolio/static/media/CV Frontend-developer.e174ba0490d0aeb3c91d.pdf",
     "static/media/Ihor1.jpeg": "/ihor-portfolio/static/media/Ihor1.4ecffdf6a11b3cbdaf92.jpeg",
     "static/media/Ihor.jpeg": "/ihor-portfolio/static/media/Ihor.e8446b2cf4373f28eb09.jpeg",
     "static/media/work2.jpg": "/ihor-portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
@@ -13,11 +13,11 @@
     "static/media/work3.jpg": "/ihor-portfolio/static/media/work3.135e9065694bc13dc31d.jpg",
     "index.html": "/ihor-portfolio/index.html",
     "main.f4d9bba5.css.map": "/ihor-portfolio/static/css/main.f4d9bba5.css.map",
-    "main.3f5e8826.js.map": "/ihor-portfolio/static/js/main.3f5e8826.js.map",
+    "main.db006590.js.map": "/ihor-portfolio/static/js/main.db006590.js.map",
     "787.28cb0dcd.chunk.js.map": "/ihor-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4d9bba5.css",
-    "static/js/main.3f5e8826.js"
+    "static/js/main.db006590.js"
   ]
 }
